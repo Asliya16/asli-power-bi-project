@@ -90,7 +90,3 @@ Asliya CP
 Data Analytics Student
 
 Project: Sales & Business Performance Analysis using Power BI
-
----
-
-⭐ If you find this project useful, feel free to explore and share your feedback!
